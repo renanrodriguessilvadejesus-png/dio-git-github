@@ -10,7 +10,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso versionamento de
 ## 💻 Resumo das aulas
 
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 | :--- | :--- |
 | aula 1 | [Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1) |
 | aula 2 | [Resumo]()
