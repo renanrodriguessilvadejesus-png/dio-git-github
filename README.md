@@ -1,46 +1,28 @@
-\# DIO | Resumo Git e Git Hub
+# DIO | Resumo Git e GitHub
+
+Repositório para armazenar resumos sobre Git e GitHub do curso versionamento de código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
+
+## 📕 Documentação
+
+* [Documentação Git](https://git-scm.com/docs)
+* [Documentação GitHub](https://docs.github.com/)
+
+## 💻 Resumo das aulas
 
 
+| Aulas | Resumos |
+| :--- | :--- |
+| aula 1 | [Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1) |
+| aula 2 | [Resumo]()
 
-Repositorio para armazenar resumos sobre Git e Git Hub do curso versionamento de codigo com Git e Git Hub da \[Digital innovation one](https://www.dio.me/).
+---
 
+`git init`
 
+---
 
-\## 📕 Documentação
+## 🔍 Referências
 
+* [Digital Innovation One](https://www.dio.me/)
 
-
-. \[Documentação Git] (https://git-scm.com/docs)
-
-
-
-. \[Documentação Git Hub] (https://docs.github.com/)
-
-
-
-\##  💻 Resumo das aulas
-
-
-
-| Aulas | Resumo |
-
-|:------ |------- |
-
-| Gravando alterações no Repositório local | \[Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1) |
-
-
-
-\---
-
-git init
-
-
-
-\---
-
-
-
-\## 🔍 Referençias
-
-. \[Digital innovation one](https://www.dio.me/).
 
